@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TA08-81GWA")(type "KiCad")(uri "${KIPRJMOD}/Parts/TA08-81GWA.kicad_sym")(options "")(descr ""))
+)
