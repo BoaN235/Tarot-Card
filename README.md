@@ -1,10 +1,11 @@
-#Tarot Card
+# Tarot Card
 
-##intro
+
+## Intro
 I want to create a pcb card that uses a neo pixel screen to display images.
 This is my project for tarot a ysws made by @hackclub
 
-##goals
+## Goals
 - I would like a working card
 - I would like it to look cool
 - I Want the lights on the front
